@@ -1,4 +1,4 @@
-1.总结下关于研发流程，软件管理。
+1.总结下关于研发流程，软件工程。
 
 总体流程
 ![](https://github.com/tsmairc/DDD/blob/master/1.png?raw=true)

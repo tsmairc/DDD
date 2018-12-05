@@ -4,7 +4,7 @@
 ![](https://github.com/tsmairc/DDD/blob/master/1.png?raw=true)
 
 设计准入
-![](https://github.com/tsmairc/DDD/blob/master/1.png?raw=true)
+![](https://github.com/tsmairc/DDD/blob/master/2.png?raw=true)
  
 提测准入
 ![](https://github.com/tsmairc/DDD/blob/master/3.png?raw=true)
